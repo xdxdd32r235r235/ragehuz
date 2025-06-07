@@ -30,7 +30,7 @@ mainFrame.Draggable = true
  
 -- Title
 local titleLabel = Instance.new("TextLabel")
-titleLabel.Text = "Rage Hub"
+titleLabel.Text = "Rage Hub by s3reths"
 titleLabel.Size = UDim2.new(1, 0, 0, 25)
 titleLabel.BackgroundTransparency = 1
 titleLabel.TextColor3 = Color3.fromRGB(200, 200, 255)
